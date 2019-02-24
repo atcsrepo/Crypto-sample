@@ -1,1 +1,3 @@
-# crypto-sample
+# Crypto Tracker Sample Code
+
+This contains partial code for the front- and back-end of a crypto portfolio tracker web application that can be viewed [here](https://atcsportal.com/login.html). For a more complete front-end code sample, please take a look at the [stand-alone code](https://github.com/atcsrepo/Portfolio-main-standalone) for the main page, which is currently live at https://atcsportal.com. Likewise, for a more complete back-end code sample, take a look at this sample application hosted on [Glitch.com](https://glitch.com/edit/#!/glaze-tank). The complete code for the Glitch demo can be found at this [GitHub repo](https://github.com/atcsrepo/Collage).
